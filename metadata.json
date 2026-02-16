@@ -1,0 +1,5 @@
+{
+  "name": "EcoFlow Sim",
+  "description": "An interactive educational simulator visualizing macroeconomic variable interactions and their effects on the economy.",
+  "requestFramePermissions": []
+}
